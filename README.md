@@ -1,1 +1,3 @@
-"# first-project" 
+# First django project
+
+lorem ipsum
